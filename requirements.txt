@@ -1,0 +1,5 @@
+azure-functions
+fastapi 
+uvicorn 
+pydub
+ffmpeg-downloader
