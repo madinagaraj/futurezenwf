@@ -9,5 +9,4 @@ joblib==1.2.0
 librosa==0.10.1
 numpy==1.26.2
 Pillow==10.1.0
-scikit_learn==1.0.1
-time
+scikit_learn
